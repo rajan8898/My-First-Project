@@ -92,7 +92,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 calcBtn('AC', Colors.grey, Colors.black),
                 calcBtn('+/-', Colors.grey, Colors.black),
                 calcBtn('%', Colors.grey, Colors.black),
-                calcBtn('/', Color(0xFFF89B10), Colors.white),
+                calcBtn('//', Color(0xFFF89B10), Colors.white),
               ],
             ),
             SizedBox(height: 10),
