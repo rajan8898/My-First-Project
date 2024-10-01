@@ -86,6 +86,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ],
             ),
             //Calculator buttons
+            Text("My Branch"),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
